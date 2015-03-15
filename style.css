@@ -195,7 +195,7 @@ body {
   border-top: 1px solid #eee;
 }
 
-/*=================== my slaves */
+/*=================== my slave */
 .my_slaves{
   margin-top: 100px;
   font-size: 50px;
@@ -203,18 +203,18 @@ body {
 }
 
 
-/*=================== circular photo*/
+/*=================== circular photo */
 .group_row{
   color: #750;
 }
 
 .row_image1{
-  margin-top: 50px;
+  margin-top: 70px;
   height: 250px;
 }
 
 .row_image2{
-  margin-top: 150px;
+  margin-top: 130px;
   height: 250px;
 }
 
@@ -223,3 +223,14 @@ body {
   height: 150px;
 }
 
+/*=================== youtube */
+
+.slavesYoutube{
+  margin-top: 250px;
+  font-size: 50px;
+  color: #055;
+}
+
+.youtube{
+  margin-top: 100px; 
+}

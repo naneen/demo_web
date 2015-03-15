@@ -1,0 +1,43 @@
+body{
+	background-color: #555;
+	padding-top: 200px;
+  	padding-bottom: 100px;
+}
+
+
+.signin {
+  max-width: 400px;
+  padding: 15px;
+  margin-left: 100px;
+  background-color: #888;
+  border-radius: 10px;
+  width:400px;
+  float: left;
+
+}
+
+
+.signin-heading{
+	color: #FA8072;
+	margin-bottom: 30px;
+	text-align: center;
+	font-size: 40px;
+	text-shadow: 10px;
+}
+
+#signinButton{
+	border-color: #00CED1;
+	background-color: #00CED1;
+}
+
+.checkbox{
+	color: #fff;
+	margin: 20px;
+}
+
+#logo{
+	float: right;
+	top :0px;
+	max-width:300px;
+	margin-right: 150px;
+}
